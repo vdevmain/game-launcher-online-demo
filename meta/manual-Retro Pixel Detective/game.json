@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/retro-pixel-detective",
+  "name": "Retro Pixel Detective",
+  "description": "Solve gritty noir mysteries in a neon-soaked pixel-art city as a hard-boiled detective with a trench coat and a magnifying glass. A story-driven point-and-click mystery.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "adventure",
+    "indie",
+    "mystery",
+    "pixel art",
+    "point-and-click"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9194106Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Retro Pixel Detective",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

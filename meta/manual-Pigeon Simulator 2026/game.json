@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/pigeon-simulator-2026",
+  "name": "Pigeon Simulator 2026",
+  "description": "Live the life of an ordinary city pigeon: peck for crumbs, dodge pedestrians and claim the best park bench. A tongue-in-cheek open-world animal simulator.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "animals",
+    "comedy",
+    "indie",
+    "open world",
+    "simulation"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8414704Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Pigeon Simulator 2026",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

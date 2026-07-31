@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/potted-plant-apocalypse",
+  "name": "Potted Plant Apocalypse",
+  "description": "Survive as houseplants become sentient and turn against humanity, defending your greenhouse with pruning shears and watering cans. A tower-defense parody of survival horror.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "comedy",
+    "horror",
+    "indie",
+    "survival",
+    "tower defense"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9514114Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Potted Plant Apocalypse",
+  "executableRelativePath": "",
+  "saveGamesPath": "",
+  "saveGamesFileFilter": ""
+}

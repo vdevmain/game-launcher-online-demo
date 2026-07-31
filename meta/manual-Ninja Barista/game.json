@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/ninja-barista",
+  "name": "Ninja Barista",
+  "description": "Brew perfect espresso shots with lightning-fast ninja reflexes while dodging rival coffee clans. A fast-paced arcade game blending stealth and latte art.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "action",
+    "arcade",
+    "comedy",
+    "fast-paced",
+    "indie"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 4,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8641618Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Ninja Barista",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/lava-island-resort",
+  "name": "Lava Island Resort",
+  "description": "Build and manage a five-star vacation resort perched on the edge of an active volcano. A tycoon game where guest satisfaction and eruption risk both matter.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "building",
+    "comedy",
+    "indie",
+    "management",
+    "tycoon"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.898391Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Lava Island Resort",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

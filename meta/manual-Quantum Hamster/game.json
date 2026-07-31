@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/quantum-hamster",
+  "name": "Quantum Hamster",
+  "description": "Guide a hamster that can exist in multiple places at once through mind-bending physics puzzles powered by quantum mechanics. A brain-teasing puzzle-platformer.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "indie",
+    "physics",
+    "platformer",
+    "puzzle",
+    "sci-fi"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9274116Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Quantum Hamster",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

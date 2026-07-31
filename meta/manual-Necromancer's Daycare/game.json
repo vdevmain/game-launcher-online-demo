@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/necromancers-daycare",
+  "name": "Necromancer\u0027s Daycare",
+  "description": "Raise, feed and babysit a horde of adorably clumsy baby skeletons and zombies at your very own undead daycare center. A wholesome management game with a dark theme.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "cute",
+    "fantasy",
+    "indie",
+    "management",
+    "simulation"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9374106Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Necromancer\u0027s Daycare",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

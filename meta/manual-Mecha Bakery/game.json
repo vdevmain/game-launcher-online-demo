@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/mecha-bakery",
+  "name": "Mecha Bakery",
+  "description": "Pilot a giant baking mech to knead dough, fire pastries and defend your bakery from rival robot chefs. An action-packed crafting game with a sci-fi twist.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "action",
+    "comedy",
+    "crafting",
+    "indie",
+    "sci-fi"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8778507Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Mecha Bakery",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

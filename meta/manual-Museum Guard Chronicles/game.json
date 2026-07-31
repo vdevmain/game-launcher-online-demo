@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/museum-guard-chronicles",
+  "name": "Museum Guard Chronicles",
+  "description": "Guard a museum full of exhibits that come alive at night, from wandering mummies to mischievous statues. An atmospheric narrative game about the night shift.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "adventure",
+    "atmospheric",
+    "indie",
+    "mystery",
+    "narrative"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9434122Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Museum Guard Chronicles",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

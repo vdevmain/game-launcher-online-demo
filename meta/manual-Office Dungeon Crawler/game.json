@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/office-dungeon-crawler",
+  "name": "Office Dungeon Crawler",
+  "description": "Descend through the cubicles of a cursed corporate office, battling middle managers and looting stationery supplies. A roguelike dungeon crawler set at work.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "comedy",
+    "dungeon crawler",
+    "indie",
+    "roguelike",
+    "rpg"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 5,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9164104Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Office Dungeon Crawler",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}
