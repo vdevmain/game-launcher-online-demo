@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/cloud-shepherd",
+  "name": "Cloud Shepherd",
+  "description": "Herd fluffy living clouds across a dreamlike sky, shaping the weather below to nurture floating villages. A relaxing exploration game about caretaking and the elements.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "adventure",
+    "exploration",
+    "fantasy",
+    "indie",
+    "relaxing"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 4,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9234115Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Cloud Shepherd",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

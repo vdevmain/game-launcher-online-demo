@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/grandpas-ufo-joyride",
+  "name": "Grandpa\u0027s UFO Joyride",
+  "description": "Take grandpa\u0027s stolen flying saucer for a wild joyride through suburban skies while dodging the military and confused neighbors. A silly arcade flying game.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "arcade",
+    "comedy",
+    "flying",
+    "indie",
+    "sci-fi"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9404109Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Grandpa\u0027s UFO Joyride",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/deep-sea-couchsurfing",
+  "name": "Deep Sea Couchsurfing",
+  "description": "Travel the ocean floor visiting eccentric sea creatures who let you crash on their coral couches. A relaxing exploration game about hospitality under the waves.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "adventure",
+    "exploration",
+    "indie",
+    "relaxing",
+    "underwater"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 2,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.912412Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Deep Sea Couchsurfing",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/ghost-traffic-controller",
+  "name": "Ghost Traffic Controller",
+  "description": "Direct wandering spirits through the afterlife\u0027s busiest intersections before they cause a supernatural pile-up. A quirky management game about the traffic of the dead.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "comedy",
+    "indie",
+    "management",
+    "puzzle",
+    "supernatural"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 1,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8818502Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Ghost Traffic Controller",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

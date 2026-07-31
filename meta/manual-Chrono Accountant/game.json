@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/chrono-accountant",
+  "name": "Chrono Accountant",
+  "description": "Balance the books of time itself as a bureaucrat with a time machine, fixing paradoxes one tax form at a time. A puzzle game about causality and receipts.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "comedy",
+    "indie",
+    "puzzle",
+    "sci-fi",
+    "time travel"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.871166Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Chrono Accountant",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

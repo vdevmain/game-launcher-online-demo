@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/grand-theft-otter",
+  "name": "Grand Theft Otter",
+  "description": "Cause adorable chaos as a mischievous otter stealing shiny objects across an open riverside city. An open-world sandbox parody with fluffy consequences.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "animals",
+    "comedy",
+    "indie",
+    "open world",
+    "sandbox"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8545002Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Grand Theft Otter",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

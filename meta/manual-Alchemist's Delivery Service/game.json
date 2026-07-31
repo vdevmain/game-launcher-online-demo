@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/alchemists-delivery-service",
+  "name": "Alchemist\u0027s Delivery Service",
+  "description": "Brew potions on the fly and sprint across a chaotic fantasy city before your ingredients spoil. A cozy time-management game with a splash of magical mayhem.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "cozy",
+    "fantasy",
+    "indie",
+    "simulation",
+    "time management"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 3,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9054063Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Alchemist\u0027s Delivery Service",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

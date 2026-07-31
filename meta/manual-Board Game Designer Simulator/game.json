@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/board-game-designer-simulator",
+  "name": "Board Game Designer Simulator",
+  "description": "Design, playtest and publish your own tabletop games, from prototype cardboard prototypes to award-winning hits at the annual convention.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "board games",
+    "creative",
+    "indie",
+    "management",
+    "simulation"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9474135Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Board Game Designer Simulator",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/dungeon-janitor",
+  "name": "Dungeon Janitor",
+  "description": "Mop up slime, sweep away bones and restock traps after the adventurers leave. A darkly funny cleaning sim set in a working dungeon.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "cleaning",
+    "comedy",
+    "fantasy",
+    "indie",
+    "simulation"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.874615Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Dungeon Janitor",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}
