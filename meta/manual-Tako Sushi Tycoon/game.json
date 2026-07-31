@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/tako-sushi-tycoon",
+  "name": "Tako Sushi Tycoon",
+  "description": "Build a sushi restaurant empire starting from a tiny octopus-run stall to a chain of five-star establishments. A restaurant management tycoon with a Japanese flair.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "casual",
+    "cooking",
+    "indie",
+    "management",
+    "tycoon"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8948502Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Tako Sushi Tycoon",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

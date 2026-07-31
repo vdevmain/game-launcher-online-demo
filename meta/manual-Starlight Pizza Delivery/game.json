@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/starlight-pizza-delivery",
+  "name": "Starlight Pizza Delivery",
+  "description": "Deliver piping-hot pizza to alien customers across the galaxy on your trusty rocket scooter before the toppings go cold. A charming arcade delivery game.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "arcade",
+    "casual",
+    "delivery",
+    "indie",
+    "sci-fi"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 2,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.955412Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Starlight Pizza Delivery",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

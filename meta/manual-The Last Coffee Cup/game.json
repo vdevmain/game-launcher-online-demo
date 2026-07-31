@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/the-last-coffee-cup",
+  "name": "The Last Coffee Cup",
+  "description": "In a post-apocalyptic wasteland, one barista sets out to brew the final cup of coffee on Earth. A short, atmospheric narrative adventure about hope and caffeine.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "adventure",
+    "atmospheric",
+    "indie",
+    "narrative",
+    "post-apocalyptic"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8604992Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/The Last Coffee Cup",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

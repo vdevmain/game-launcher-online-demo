@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/trolley-problem-simulator",
+  "name": "Trolley Problem Simulator",
+  "description": "Pull levers, weigh moral dilemmas and face the absurd consequences in dozens of increasingly ridiculous trolley problem scenarios. A dark comedy puzzle game about ethics.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "comedy",
+    "indie",
+    "philosophy",
+    "puzzle",
+    "simulation"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.9304117Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Trolley Problem Simulator",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}

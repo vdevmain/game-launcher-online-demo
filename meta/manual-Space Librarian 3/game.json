@@ -1,0 +1,24 @@
+{
+  "url": "https://store.indiehaven.example/space-librarian-3",
+  "name": "Space Librarian 3",
+  "description": "Catalog forbidden alien tomes and shush unruly starship crews in the third installment of the beloved intergalactic library adventure series.",
+  "developer": "",
+  "isMachineTranslated": false,
+  "tags": [
+    "adventure",
+    "comedy",
+    "indie",
+    "puzzle",
+    "sci-fi"
+  ],
+  "status": "not-started",
+  "buildStatus": "",
+  "rating": 0,
+  "playedMinutes": 0,
+  "added": "2026-07-23T07:52:13.8888509Z",
+  "archiveFileName": "",
+  "extractedFolder": "./games/Space Librarian 3",
+  "executableRelativePath": "",
+  "saveGamesPath": "save",
+  "saveGamesFileFilter": ""
+}
